@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&height=90&lines=Frontend+Developer;Angular+Developer;React+Developer;TypeScript+%7C+JavaScript;HTML+%7C+CSS+%7C+SQL;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+YourName;Full-Stack+Developer;React+%26+Node.js+Enthusiast;Open+Source+Contributor;Welcome+to+My+Profile+%F0%9F%91%8B" />
 </p>
-
-
-
 ---
 
 # 👨‍💻 About Me
