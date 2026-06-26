@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+YourName;Full-Stack+Developer;React+%26+Node.js+Enthusiast;Open+Source+Contributor;Welcome+to+My+Profile+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Developer;Angular+Expert;React+Enthusiast;TypeScript+Lover;MERN+Stack+Developer" />
 </p>
 ---
 
