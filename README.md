@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
-
-<h3 align="center">
-Frontend Developer | Angular | React | TypeScript
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Developer;Angular+Developer;React+Developer;TypeScript+Developer;Always+Learning+New+Technologies+🚀" />
 </p>
