@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
-```html
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=1100&height=80&lines=👋+Hi%2C+I'm+Tshering+Dorji;💻+Frontend+Developer;⚡+Angular+%7C+React+%7C+TypeScript+Developer;🚀+Building+Modern+Responsive+Web+Applications;🌱+Always+Learning+New+Technologies"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=1200&height=90&lines=Frontend+Developer;Angular+Developer;React+Developer;TypeScript+%7C+JavaScript;HTML+%7C+CSS+%7C+SQL;Open+Source+Enthusiast;Always+Learning+%F0%9F%9A%80"
   />
 </p>
-```
 
-```
 
 
 ---
