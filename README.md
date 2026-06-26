@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Developer;Angular+Developer;React+Developer;TypeScript+Developer;Always+Learning+New+Technologies+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Tshering+Dorji;Frontend+Developer;Angular+%26+React+Expert;Building+Awesome+Web+Apps;Let's+Connect+%F0%9F%92%AA" />
 </p>
 
 <p align="center">
