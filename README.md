@@ -5,7 +5,7 @@ Frontend Developer | Angular | React | TypeScript
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Angular+Developer;React+Developer;TypeScript+Developer;Always+Learning+New+Technologies+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=100&section=header&text=Frontend%20Developer%20%7C%20Angular%20%7C%20React%20%7C%20TypeScript&fontSize=22&fontColor=ffffff" />
 </p>
 
 ---
