@@ -64,7 +64,16 @@
 <img src="https://komarev.com/ghpvc/?username=TsheringDorji23&label=Visitors&color=blue&style=flat"/>
 
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsheringDorji23&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsheringDorji23&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsheringDorji23&show_icons=true&theme=tokyonight" />
+</p>
 ---
 
 # 📫 Connect with Me
