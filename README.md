@@ -1,6 +1,9 @@
-<a href="https://github.com/TsheringDorji23?tab=repositories">
-  📘 Study & Learn Projects
-</a>
+<nav>
+  <a href="#about">About</a>
+  <a href="#skills">Skills</a>
+  <a href="#projects">Projects</a>
+  <a href="#contact">Contact</a>
+</nav>
   <img src="https://img.shields.io/badge/📘-Study%20%26%20Learn-blue?style=for-the-badge"/>
 </a>
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
