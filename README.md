@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Developer;Angular+Expert;React+Enthusiast;TypeScript+Lover;MERN+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Emoji&size=28&duration=3500&pause=800&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Let's+Code+Together;%F0%9F%92%BB+Tech+Enthusiast;%F0%9F%8C%9F+Innovation+Driven;%F0%9F%92%AA+Never+Stop+Learning;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Developer+Life" />
 </p>
----
 
 # 👨‍💻 About Me
 
