@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
+```html
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Developer;Angular+Developer;React+Developer;TypeScript+Developer;Always+Learning+New+Technologies+🚀" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=1100&height=80&lines=👋+Hi%2C+I'm+Tshering+Dorji;💻+Frontend+Developer;⚡+Angular+%7C+React+%7C+TypeScript+Developer;🚀+Building+Modern+Responsive+Web+Applications;🌱+Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
 </p>
+```
+
+```
+
 
 ---
 
 # 👨‍💻 About Me
 
-- 💼 Frontend Developer at **NGN Technologies**
-- ⚖️ Supporting the **G2C Judiciary Project**
+- 💼 Frontend Developer at **NGN Technologies Private Limited**
+- ⚖️ Supporting the **G2C Government-to-Citizen (G2C) digital services**
 - 🌱 Learning **Angular**, **Three.js**, and **React**
 - 📍 Thimphu, Bhutan
 - 🎯 Goal: Become a Senior Frontend Engineer
