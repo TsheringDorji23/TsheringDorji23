@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Developer;Angular+Developer;React+Developer;TypeScript+Developer;Always+Learning+New+Technologies+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=TsheringDorji23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/TsheringDorji23?label=Followers&style=social" alt="Followers" />
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=google-chrome" alt="Portfolio" />
+  <img src="https://img.shields.io/github/followers/TsheringDorji23?label=Followers&style=flat&color=586069" alt="Followers" />
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1f883d?style=flat&logo=github" alt="Portfolio" />
   </a>
 </p>
-
 # 👨‍💻 About Me
 
 - 💼 Frontend Developer at **NGN Technologies Private Limited**
