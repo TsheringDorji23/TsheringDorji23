@@ -82,3 +82,7 @@
 
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<h3 align="center">
+  👋 Thanks for Visiting My Profile! 🚀⭐
+</h3>
