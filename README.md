@@ -50,7 +50,9 @@
 # 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TsheringDorji23&theme=darkhub&row=1&column=6" />
+  <img src="https://img.shields.io/badge/GitHub%20Trophies-Developer-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20React-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
 </p>
 
 ---
