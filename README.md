@@ -75,10 +75,7 @@ Frontend Developer | Angular | React | TypeScript
 
 # 📫 Connect with Me
 
-📧 Email: your-email@example.com
+📧 Email: tsheringdorji17819155@gmail.com
 
-💼 LinkedIn: Coming Soon
-
-🌐 Portfolio: Coming Soon
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
