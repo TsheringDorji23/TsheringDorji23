@@ -1,4 +1,6 @@
-<a href="#study-and-learn">
+<a href="https://github.com/TsheringDorji23?tab=repositories">
+  📘 Study & Learn Projects
+</a>
   <img src="https://img.shields.io/badge/📘-Study%20%26%20Learn-blue?style=for-the-badge"/>
 </a>
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
@@ -82,4 +84,5 @@ Frontend Developer | Angular | React | TypeScript
 💼 LinkedIn: Coming Soon
 
 🌐 Portfolio: Coming Soon
+
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
