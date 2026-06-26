@@ -1,3 +1,4 @@
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Tshering Dorji</h1>
 
 <h3 align="center">
