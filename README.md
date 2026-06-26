@@ -78,7 +78,14 @@
 
 # 📫 Connect with Me
 
-📧 Email: tsheringdorji17819155@gmail.com
+📧 **Email:** **[tsheringdorji17819155@gmail.com](mailto:tsheringdorji17819155@gmail.com)**
+
+📱 **Phone:** **+975-17819155**
+
+💼 **LinkedIn:** **https://www.linkedin.com/in/tshering-dorji-ab0bbb293/**
+
+💬 *Feel free to connect with me for collaboration, freelance opportunities, or software development projects.*
+
 
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
